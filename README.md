@@ -23,7 +23,7 @@ Mental health awareness within high-stress engineering environments is a pivotal
 | Hypothesis | Null Hypothesis ($H_0$) | Statistical Test | Test Statistic | $p$-value | Decision ($\alpha=0.05$) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **$H_1$: Age vs. Treatment** | $\mu_{\text{treated}} = \mu_{\text{untreated}}$ | Welch's Two-Sample $t$-test | $t = 1.7788$ | $p = 0.0757$ | Fail to Reject $H_0$ |
-| **$H_2$: Family History Impact** | $p_{\text{history}} = p_{\text{no\_history}}$ | Proportion CI & $\chi^2$ Test | $\chi^2 = 105.89$ | $p = 7.81 \times 10^{-25}$ | **Reject $H_0$** |
+| **$H_2$: Family History Impact** | $p_{\text{history}} = p_{\text{no-history}}$ | Proportion CI & $\chi^2$ Test | $\chi^2 = 105.89$ | $p = 7.81 \times 10^{-25}$ | **Reject $H_0$** |
 | **$H_3$: Age vs. Interference** | $\rho_{\text{Age, Interference}} = 0$ | Pearson ($r$) & Spearman ($\rho$) | $r = -0.0396$ | $p = 0.2133$ | Fail to Reject $H_0$ |
 
 ---
