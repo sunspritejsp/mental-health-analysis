@@ -82,8 +82,8 @@ Mental health awareness within high-stress engineering environments is a pivotal
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/mental-health-tech-analysis.git
-   cd mental-health-tech-analysis
+   git clone https://github.com/sunspritejsp/mental-health-analysis.git
+   cd mental-health-analysis
 
 ### Running the Interactive Notebook
 
